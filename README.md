@@ -144,12 +144,11 @@ For detailed PowerShell help (once fully implemented in the script):
 *   **@modelcontextprotocol/server-brave-search:**
     *   NPM: [npmjs.com/package/@modelcontextprotocol/server-brave-search](https://www.npmjs.com/package/@modelcontextprotocol/server-brave-search)
     *   GitHub: Likely part of [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) or individual repo.
+*(MCP Servers proxy for use in navigators*
 *   **@srbhptl39/mcp-superassistant-proxy:**
     *   NPM: [npmjs.com/package/@srbhptl39/mcp-superassistant-proxy](https://www.npmjs.com/package/@srbhptl39/mcp-superassistant-proxy)
     *   GitHub: [srbhptl39/mcp-superassistant-proxy](https://github.com/srbhptl39/mcp-superassistant-proxy)
-*   **puppeteer:** Headless Chrome/Chromium browser automation.
-    *   NPM: [npmjs.com/package/puppeteer](https://www.npmjs.com/package/puppeteer)
-    *   GitHub: [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+
 
 ### Python Packages (via pip/uvx)
 *(MCP Servers & Libraries installed by this script)*
