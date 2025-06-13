@@ -80,6 +80,14 @@ The `setup-mcp-servers.ps1` script is designed to streamline the deployment and 
     # Or for more permanent change (requires admin):
     # Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
     ```
+Alternatively, your run the script directly :
+
+    ```powershell
+    Invoke-WebRequest -Uri "https://raw.githubusercontent.com/houesoussema/MCP-Env-Setup-Update-Script/main/setup-mcp.ps1" -OutFile "setup-mcp.ps1"
+    notepad setup-mcp.ps1   # Review the code
+    Set-ExecutionPolicy Bypass -Scope Process -Force
+    .\setup-mcp.ps1
+    ```
 
 ## Usage
 
