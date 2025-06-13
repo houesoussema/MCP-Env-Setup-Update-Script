@@ -4,7 +4,7 @@
 ![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue)
 ![PowerShell: Core/Desktop](https://img.shields.io/badge/PowerShell-Core%20%7C%20Desktop-purple)
 
-This is a working unfinished work!!
+This is an unfinished work!! (but it works)
 
 This PowerShell script automates the setup and maintenance of the MCP (Model Context Protocol) server environment on a Windows machine. It handles the installation and updating of essential dependencies, specific MCP-related packages, sets up required directories, clones and configures custom MCP server components from Git, performs basic tests, and offers flexible MCP configuration options for tools like Claude Desktop and the MCP Superassistant Proxy.
 
