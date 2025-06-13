@@ -6,10 +6,10 @@
 
 This is an unfinished work!! (but it works)
 
-This PowerShell script automates the setup and maintenance of the MCP (Model Context Protocol) server environment on a Windows machine. It handles the installation and updating of essential dependencies, specific MCP-related packages, sets up required directories, clones and configures custom MCP server components from Git, performs basic tests, and offers flexible MCP configuration options for tools like Claude Desktop and the MCP Superassistant Proxy.
+This PowerShell script automates the setup and maintenance of my MCP (Model Context Protocol) server environment on a Windows machine. It handles the installation and updating of essential dependencies, specific MCP-related packages, sets up required directories, clones and configures custom MCP server components from Git, performs basic tests, and offers flexible MCP configuration options for tools like Claude Desktop and the MCP Superassistant Proxy.
 
 **Author:** [oussema (houesoussema)](https://github.com/houesoussema)
-**Last Modified (Script):** 13-6-25 (Please clarify year if ambiguous, e.g., 2024-06-13)
+**Last Modified (Script):** 13-6-25 
 
 ## Table of Contents
 
