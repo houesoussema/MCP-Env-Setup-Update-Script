@@ -71,8 +71,8 @@ The `setup-mcp-servers.ps1` script is designed to streamline the deployment and 
 
 1.  Clone this repository or download the `setup-mcp-servers.ps1` script to your local machine.
     ```bash
-    git clone <repository_url>
-    cd <repository_directory>
+    git clone [<repository_url>](https://github.com/houesoussema/MCP-Env-Setup-Update-Script.git)
+    cd MCP-Env-Setup-Update-Script
     ```
 2.  Ensure PowerShell execution policy allows running local scripts. You might need to run:
     ```powershell
